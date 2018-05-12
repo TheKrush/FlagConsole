@@ -8,7 +8,6 @@
   <PropertyGroup>
     <OutputPath>$(SolutionDir)Build\$(AssemblyName)\$(Platform)\$(Configuration)\bin\</OutputPath>
     <IntermediateOutputPath>$(SolutionDir)Build\$(AssemblyName)\$(Platform)\$(Configuration)\obj\</IntermediateOutputPath>
-    <NuGetPackageImportStamp>
     <Version>1.0.0.1</Version>
   </PropertyGroup>
 
