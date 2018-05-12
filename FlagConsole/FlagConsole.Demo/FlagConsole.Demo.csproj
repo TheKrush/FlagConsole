@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FlagConsole.Demo</RootNamespace>
     <AssemblyName>FlagConsole.Demo</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <OutputPath>$(SolutionDir)Build\$(AssemblyName)\$(Platform)\$(Configuration)\bin\</OutputPath>
     <IntermediateOutputPath>$(SolutionDir)Build\$(AssemblyName)\$(Platform)\$(Configuration)\obj\</IntermediateOutputPath>
     <FileAlignment>512</FileAlignment>
